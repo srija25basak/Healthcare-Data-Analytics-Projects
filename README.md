@@ -49,6 +49,8 @@ Using Matplotlib, Seaborn, and Plotly, we create various visualizations to under
 12. **Stacked Bar Plot**: Distribution of medical conditions by gender.
 13. **Stacked Bar Plot**: Distribution of test results by admission types.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 
